@@ -2,7 +2,7 @@
 
 # Martin Lantieri
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UTN+FRC;Backend+Developer;Full-Stack+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UTN+FRC;Backend+Developer;Full-Stack+Enthusiast)
 
 I am a developer focused on building robust backend systems and full-stack applications.  
 Currently pursuing a **Degree in Programming** at [UTN FRC](https://www.frc.utn.edu.ar/), Argentina.
@@ -43,7 +43,7 @@ Currently pursuing a **Degree in Programming** at [UTN FRC](https://www.frc.utn.
 
 ### 📊 GitHub Activity
 
-![Martin's Stats](https://github-readme-stats.vercel.app/api?username=Lantieridev&show_icons=true&theme=tokyonight&hide_border=true)
+![Lantieridev's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lantieridev&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&icon_color=58a6ff)
 
 ---
 
