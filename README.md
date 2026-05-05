@@ -1,13 +1,17 @@
 # ¡Hola, soy Martin Lantieri! 🚀
 
-### Backend Developer & Full-Stack Enthusiast 💻 Java | Spring Boot | React
+### Full-Stack Developer 💻 Java | C# | SQL | JS
 
-Soy un desarrollador apasionado por crear sistemas robustos, escalables y con una estética cuidada. Actualmente enfocado en másterizar el ecosistema de **Java** y arquitecturas **Full-Stack**.
+Soy un desarrollador apasionado por crear sistemas robustos, escalables y con una estética cuidada. Mi enfoque principal es el ecosistema de **Java** y **C#**, con experiencia construyendo soluciones Full-Stack modernas.
 
 ---
 
 ## 🛠️ Mi Stack Tecnológico
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -16,15 +20,14 @@ Soy un desarrollador apasionado por crear sistemas robustos, escalables y con un
 ---
 
 ## ✨ Proyectos Destacados
-*   **[voidForum](https://github.com/Lantieridev/voidForum)** - Una plataforma social completa (Spring Boot + MongoDB + React).
-*   **[Dominio Elemental](https://github.com/Lantieridev/dominio-elemental)** - Motor de juego de cartas con IA y estética CLI Premium.
-*   **[Buscaminas](https://github.com/Lantieridev/buscaminas)** - El clásico juego de lógica con UI avanzada y efectos visuales en consola.
+*   **[voidForum](https://github.com/Lantieridev/voidForum)** - Plataforma social Full-Stack (Spring Boot + MongoDB + React).
+*   **[Foundations (UTN Challenges)](https://github.com/Lantieridev/cs-foundations)** - Colección de desafíos de lógica, algoritmos y ejercicios de la UTN remasterizados (Dominio Elemental, Buscaminas, Batalla Naval).
 
 ---
 
-## 🚀 En camino...
-*   **Ritual:** Descubrimiento de conciertos en Argentina mediante integración de APIs y scrapers.
-*   **Pokémon TCG:** Mi próximo gran desafío Full-Stack.
+## 🚀 Próximamente...
+*   **Pokémon TCG:** Mi próximo gran TPI Full-Stack.
+*   **Ritual:** Sistema de descubrimiento de eventos (en rediseño de arquitectura).
 
 ---
 
@@ -33,5 +36,5 @@ Soy un desarrollador apasionado por crear sistemas robustos, escalables y con un
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lantieridev&layout=compact&theme=tokyonight)
 
 ---
-📫 **¿Cómo contactarme?**
-[LinkedIn](https://www.linkedin.com/in/martin-lantieri/) | [Portfolio](https://lantieri.dev) (Opcional)
+📫 **Contacto**
+[LinkedIn](https://www.linkedin.com/in/martin-lantieri/)
