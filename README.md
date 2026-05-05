@@ -11,21 +11,33 @@ Currently pursuing a **Degree in Programming** at [UTN FRC](https://www.frc.utn.
 
 ### 🚀 About Me
 
+- 🔭 **Currently working on:** Refining my Full-Stack skills with **Spring Boot** and **React**.
 - 🎓 **Education:** Advanced student at **UTN FRC** (Tecnicatura en Programación).
 - ⚙️ **Focus:** Clean Architecture, RESTful APIs, and Database Optimization.
+- 📚 **Learning:** Exploring **Docker**, **Cloud Services**, and **Advanced C#**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Java** • **C#** • **SQL** • **Spring Boot** • **React** • **MongoDB** • **Git**
+**Languages & Core**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Tools**  
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📂 Featured Projects
 
-- **[voidForum](https://github.com/Lantieridev/voidForum)**: Full-stack social platform with secure authentication and real-time interaction.
-- **[CS Foundations](https://github.com/Lantieridev/cs-foundations)**: A curated collection of computer science fundamentals, logic challenges, and academic projects from UTN FRC.
+- **[voidForum](https://github.com/Lantieridev/voidForum)**: Full-stack social platform with authentication, voting system, and MongoDB.
+- **[CS Foundations](https://github.com/Lantieridev/cs-foundations)**: My personal collection of logic challenges and algorithm implementations.
 
 ---
 
@@ -37,7 +49,7 @@ Currently pursuing a **Degree in Programming** at [UTN FRC](https://www.frc.utn.
 
 ### 📫 Let's Connect
 
-**[lantieridev@gmail.com](mailto:lantieridev@gmail.com)**  
-**[LinkedIn](https://www.linkedin.com/in/martin-lantieri-2a590925a/)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-lantieri-2a590925a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lantieridev@gmail.com)
 
 </div>
